@@ -1,6 +1,7 @@
 # Palindrome Checker App
 
 📝 Description
+
 A web application that allows you to check if a word or phrase is a palindrome, with a simple and intuitive interface.
 
 🚀 Technologies Used
