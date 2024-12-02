@@ -29,25 +29,27 @@ Insert Code
 Edit
 Copy code
 
-# Clonar el repositorio
-git clone <url-del-repositorio>
+# Clone the repository
+git clone https://github.com/kerwuin3/palindrome-kwn
 
-# Instalar dependencias
+# Install dependencies
 npm install
 
-# Ejecutar en modo desarrollo
+# Run in development mode
 npm run dev
 
-🎯 Funcionalidades
-Ignora mayúsculas y minúsculas
-Elimina caracteres especiales
-Muestra mensajes de éxito, error y advertencia
-Validación de entrada vacía
-📱 Capturas de Pantalla
-(Incluir capturas de pantalla del proyecto)
+🎯 Features
 
-🤝 Contribuciones
-Las contribuciones son bienvenidas. Por favor, lee las pautas de contribución antes de enviar un pull request.
+Ignores case
+Removes special characters
+Shows success, error, and warning messages
+Validates empty input
+📱 Screenshots
+(Include screenshots of the project)
+
+🤝 Contributions
+
+Contributions are welcome. Please read the contribution guidelines before submitting a pull request.
 
 📄 MIT License
 
