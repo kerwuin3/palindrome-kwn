@@ -1,10 +1,10 @@
 # Palindrome Checker App
 
-📝 Description
+📝 **Description**
 
 A web application that allows you to check if a word or phrase is a palindrome, with a simple and intuitive interface.
 
-🚀 Technologies Used
+🚀 **Technologies Used**
 
 Next.js
 React
@@ -14,7 +14,7 @@ Next.js Image Component
 Google Fonts (Roboto, Montserrat)
 React Icons
 
-✨ Characteristics
+✨ **Characteristics**
 
 Palindrome Checking
 Clean and modern interface
@@ -23,23 +23,23 @@ Background image background
 Input validation
 Responsive design
 
-🔧 Facility
+🔧 **Facility**
 
 bash
 Insert Code
 Edit
 Copy code
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/kerwuin3/palindrome-kwn
 
-# Install dependencies
+## Install dependencies**
 npm install
 
-# Run in development mode
+## Run in development mode**
 npm run dev
 
-🎯 Features
+🎯 **Features**
 
 Ignores case
 Removes special characters
@@ -48,13 +48,13 @@ Validates empty input
 📱 Screenshots
 (Include screenshots of the project)
 
-🤝 Contributions
+🤝 **Contributions**
 
 Contributions are welcome. Please read the contribution guidelines before submitting a pull request.
 
-📄 MIT License
+📄 **MIT License**
 
-Copyright (c) 2024 | kerwuin chirino
+**Copyright (c) 2024 | kerwuin chirino**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
