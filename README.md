@@ -33,10 +33,10 @@ Copy code
 ## Clone the repository
 git clone https://github.com/kerwuin3/palindrome-kwn
 
-## Install dependencies**
+## Install dependencies
 npm install
 
-## Run in development mode**
+## Run in development mode
 npm run dev
 
 🎯 **Features**
